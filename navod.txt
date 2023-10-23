@@ -1,0 +1,27 @@
+
+
+autentikace x autorizace - overeni identitty - kdyz projde tak autorizace, dovoleni
+
+kdyz 2 strany stejny klic: obe muzou zasifrovat i rozsifrovat
+
+
+ls -al he = hledani veci co maji he
+ls -al heavy_lead?.sh - misto 1 znaku otaznik
+ls -al heavy_lead.sh* 
+
+
+gzip komprimuje 1 soubor
+gunzip opaak
+
+tar cvzf archiv.tgz co tam dam - spoji soubory, zazipovani
+muzu dat i adresar, projde vsehcny soubory zde
+tar xvzf rozbali
+
+git status
+git log
+
+git add
+git commit
+
+git push 
+git pull
