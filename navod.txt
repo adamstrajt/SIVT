@@ -25,3 +25,15 @@ git commit
 
 git push 
 git pull
+
+kombinace rozsynchronizovaných cest
+rebase - serverovy zmeneny soubor stahnu jako novy zaklad ke svoji zmene
+
+merge
+
+ČISTÝ KOD 
+jde nám o přehlednost, modulárnost
+
+ctrl shift X - čtverečky - instalace
+
+
