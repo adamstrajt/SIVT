@@ -27,14 +27,16 @@ git push
 git pull
 
 kombinace rozsynchronizovaných cest
-rebase - serverovy zmeneny soubor stahnu jako novy zaklad ke svoji zmene
+rebase - serverovy zmeneny soubor stahnu jako novy zaklad ke svoji zmene = prepis historie u me
 
-merge 
-
+merge - rozvetveni na puvodnim zaklade; vytvori se umely merge commit ze dvou novych historii
 
 ČISTÝ KOD 
 jde nám o přehlednost, modulárnost
 
 ctrl shift X - čtverečky - instalace
 
-
+MODELY
+moduly - 
+from ... import ...
+import ... as ...
